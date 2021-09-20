@@ -17,7 +17,7 @@ Lucide is trying to expand the icon set as much as possible while staying faithf
 
 ### Why choose Lucide over Feather Icons
 
-- Lucide already expended the icon set by 130+ in less then a year, so more icons to work with.
+- Lucide already expanded the icon set by 130+ in less then a year, so more icons to work with.
 - Well maintained code base.
 - Active community.
 
@@ -35,6 +35,7 @@ Lucide is trying to expand the icon set as much as possible while staying faithf
   * [Preact](#preact)
   * [Figma](#figma)
   * [Laravel](#laravel)
+  * [Flutter](#flutter)
 * [Contributing](#contributing)
 * [Community](#community)
 * [License](#license)
@@ -145,6 +146,16 @@ composer require mallardduck/blade-lucide-icons
 ```
 
 For more details, see the [documentation](https://github.com/mallardduck/blade-lucide-icons/blob/main/README.md).
+
+### Flutter
+
+Implementation of Lucide icon library for Flutter applications.
+
+```sh
+flutter pub add lucide_icons
+```
+
+For more details, see the [pub.dev](https://pub.dev/packages/lucide_icons).
 
 ## Contributing
 
